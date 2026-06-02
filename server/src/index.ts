@@ -14,7 +14,7 @@ const app: Application = express();
 app.use(express.json());
 
 const allowedOrigins = [
-  "https://food-y3nu.onrender.com",
+  "https://food-1-3ism.onrender.com",
   "https://food-two-ruby.vercel.app/",
   "http://localhost:3000",   
   "http://localhost:8000"  
